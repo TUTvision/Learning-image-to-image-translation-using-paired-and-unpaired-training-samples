@@ -57,8 +57,7 @@ Related Work
 
 1. Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio "Generative Adversarial Networks", in NIPS 2014. 
 2. Phillip Isola, Jun-Yan Zhu, Tinghui Zhou, and Alexei A. Efros. "Image-to-Image Translation with Conditional Adversarial Networks", in CVPR 2017.
-3. J. Y. Zhu, T. Park, P. Isola, and A. A. Efros. Unpaired image-to-image translation 539
-using cycle-consistent adversarial networks. In ICCV 2017.
+3. J. Y. Zhu, T. Park, P. Isola, and A. A. Efros. "Unpaired image-to-image translation using cycle-consistent adversarial networks", In ICCV 2017.
 ```
 
 ![Octocat](https://github.com/TUTvision/Learning-image-to-image-translation-using-paired-and-unpaired-training-samples/blob/master/tut.jpeg?raw=true "tutImage")
