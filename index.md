@@ -22,12 +22,12 @@ such hybrid setup in image-to-image translation.
 > The training set contains 50 paired data out of total 2975 training images from this dataset.
 > CycleGAN can only be trained on unpaired data and pix2pix can be trained on only 50 paired data.
 > Our approach utilizes both paired and unpaired data to achive superior results.
-![Bra](https://github.com/Blade6570/paired_and_unpaired/blob/master/com1.png?raw=true "Input Image")
+![Bra](https://github.com/TUTvision/Learning-image-to-image-translation-using-paired-and-unpaired-training-samples/blob/master/com1.png?raw=true "Input Image")
 
 ### Satellite images to maps translation and vice versa
 > The training set contains 50 paired data out of total 1096 training images from this dataset.
 > Our approach produces better quality results with the help of small paired data cues.
-![Bra](https://github.com/Blade6570/paired_and_unpaired/blob/master/comp2.png?raw=true "map Image")
+![Bra](https://github.com/TUTvision/Learning-image-to-image-translation-using-paired-and-unpaired-training-samples/blob/master/comp2.png?raw=true "map Image")
 
 ## Translation using supervision across datasets
 > The training set contains 2975 paired images from cityscapes dataset and 100 unpaired images from
@@ -35,7 +35,7 @@ Mapillary vistas dataset. All the models are tested on Mapillary vistas images t
 not involved in training.
 > pix2pix is trained only on paired data (from cityscapes) and CycleGAN is trained only on unpaired data (from Mapillary vistas).
 > Our model achives high quality results by utilizing both paired and unpaired data simultaneously and outperforms the state-of-the-art approaches.
-![Bra](https://github.com/Blade6570/paired_and_unpaired/blob/master/comp3.png?raw=true "mapo Image")
+![Bra](https://github.com/TUTvision/Learning-image-to-image-translation-using-paired-and-unpaired-training-samples/blob/master/comp3.png?raw=true "mapo Image")
 
 ```
 #Citation 
@@ -61,6 +61,6 @@ Related Work
 using cycle-consistent adversarial networks. In ICCV 2017.
 ```
 
-![Octocat](https://github.com/Blade6570/paired_and_unpaired/blob/master/tut.jpeg?raw=true "tutImage")
+![Octocat](https://github.com/TUTvision/Learning-image-to-image-translation-using-paired-and-unpaired-training-samples/blob/master/tut.jpeg?raw=true "tutImage")
 
 
